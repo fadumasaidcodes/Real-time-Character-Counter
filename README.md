@@ -1,4 +1,9 @@
 # Real-time Character Counter
+
+# live webite 
+
+- [Live-website] ('https://fadumasaidcodes.github.io/Real-time-Character-Counter/')
+
 ## Description
 This project is a real-time character counter that displays the number of characters entered into an input field and the remaining characters that can be entered. The counter updates in real-time as the user types into the input field. The project uses JavaScript to listen for changes to the input field and updates the character count and remaining characters accordingly. The input field and the character count are also styled using CSS.
 
