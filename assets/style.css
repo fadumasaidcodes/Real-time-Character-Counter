@@ -1,0 +1,33 @@
+.container {
+    width: 50%; /* set the width of the container */
+    margin: 0 auto; /* center the container on the page */
+    padding: 16px; /* add some padding to the container */
+    border-radius: 8px; /* round the corners of the container */
+    background-color: #f0e6ff; /* set the background color of the container */
+    text-align: center; /* center the elements inside the container */
+  }
+  
+  /* Input styling */
+  label {
+    display: block; /* display the label as a block element */
+    margin-bottom: 8px; /* add some margin to the bottom of the label */
+  }
+  input {
+    width: 100%; /* make the input fill the container */
+    padding: 12px; /* add some padding to the input */
+    border-radius: 4px; /* round the corners of the input */
+    border: 1px solid #ccc; /* add a border to the input */
+    font-size: 16px; /* set the font size of the input */
+  }
+  
+  /* Character count styling */
+  #char-count {
+    font-size: 14px;
+    margin-top: 8px;
+    color: #666;
+  }
+  #remaining {
+    font-size: 14px;
+    margin-top: 8px;
+    color: #666;
+  }
